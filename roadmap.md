@@ -10,12 +10,12 @@
 - [python-guide](https://docs.python-guide.org)
 - [realpython:python basic](https://realpython.com/tutorials/basics/)
 
-## AI
+## ML/DL 
 
 - [ML/DL](http://www.huaxiaozhuan.com)
 - [Made With ML](https://madewithml.com)
 
-## Roadmap
+## AI Roadmap
 
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ai-roadmap](https://github.com/apachecn/ai-roadmap)
