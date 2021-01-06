@@ -37,4 +37,13 @@ print(set2)
 set3 = {n for n in range(1, 3) if n % 2 == 1 or n % 3 == 0}
 print(set3)
 
+def oopen():
+    f = open('test.txt', 'r', encoding='utf-8')
+    print(f.read())
+    f.close()
 
+import json
+json.dump()
+
+import requests
+requests.

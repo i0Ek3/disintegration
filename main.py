@@ -1,8 +1,11 @@
+#!/usr/bin/env python
+# coding=utf-8
+
 """
 I'm freshbird for Python.
 """
 
-from newer import isNewer
+from isnew import isNewer
 
 y = 'Yes'
 n = 'No'
