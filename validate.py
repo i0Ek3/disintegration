@@ -5,13 +5,32 @@ import re
 
 def validate(str, mode):
 
+    """
+    regex example
+
+    mail address: 
+        ^[a-z][a-z0-9_\.]+@[a-z]+(\.[a-z]+)+$
+
+    phone number: 
+        ^1[3-9]\d{9}$
+
+    fixed line: 
+        ^0[1,2,4-9][0-9]\d{0,1}$
+
+    Chinese: 
+        ^[\u4E00-\u9FA5]
+    
+    ref: 
+        https://github.com/cdoco/learn-regex-zh
+        https://github.com/cdoco/common-regex
+    """
+
     # username = input('please input your username: ')
     # number = input('please input your number: ')
 
     if str:
         if mode == 'username':
-            # TODO: username must contains 4-12 chars which begin with a letter
-            m1 = re.match(r'^\w\d|\w{3, 11}$', str)
+            m1 = re.match(r'^[a-zA-Z][a-zA-Z0-9_]{3,11}$', str)
             if not m1:
                 print('invalid username.')
             else:
