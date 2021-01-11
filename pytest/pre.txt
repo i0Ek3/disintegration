@@ -1,0 +1,4 @@
+[* for i in *]
+value = a if condition else b
+lambda/zip/list/tuple
+
