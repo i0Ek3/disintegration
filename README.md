@@ -10,9 +10,10 @@ This project will contain some parts which I don't know yet, but I will upload m
 
 Pleas check [roadmap.md](https://github.com/i0Ek3/disintegration/blob/main/roadmap.md).
 
-## ?
+## Projects
 
-coming soon...
+- pyco
+- ...
 
 ## Credit
 
