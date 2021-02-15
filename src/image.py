@@ -3,5 +3,6 @@
 
 from PIL import Image
 
-img = Image.open('./test.jpg')
+img = Image.open('./../pytest/test.jpg')
+img.show()
 print((img.format, img.size, img.mode)) 

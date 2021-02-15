@@ -8,12 +8,7 @@ This project will contain some parts which I don't know yet, but I will upload m
 
 ## Roadmap
 
-Pleas check [roadmap.md](https://github.com/i0Ek3/disintegration/blob/main/roadmap.md).
-
-## Projects
-
-- pyco
-- ...
+Please check [roadmap.md](https://github.com/i0Ek3/disintegration/blob/main/roadmap.md).
 
 ## Credit
 

@@ -26,6 +26,3 @@ def wopen(filename, mode, encoding='utf-8'):
         print('Unkonwn encoding!')
     except UnicodeDecodeError:
         print('Wrong decoding!')
-
-
-#wopen('./pytest/test.txt', 'r')

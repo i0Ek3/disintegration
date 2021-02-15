@@ -2,7 +2,6 @@
 
 > AI Roadmap: from zero to zero.
 
-
 ## Python
 
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) 
@@ -45,5 +44,19 @@
 
 ## Project
 
-- []() 
+- []()
 
+## Books
+
+- Deep Learning 深度学习（花书）
+- Machine Learning 机器学习（西瓜书）
+- 统计学习方法（第2版）
+- 百面 ML/DL
+- Standford University CS229/CS230
+
+## ML/DL Tools Learning
+
+- TensorFlow
+- PyTorch
+- Keras
+- Caffe
